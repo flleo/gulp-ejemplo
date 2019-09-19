@@ -1,0 +1,19 @@
+{
+  "name": "gulp-ejemplo",
+  "version": "1.0.0",
+  "description": "ejemplo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flleo/gulp-ejemplo.git"
+  },
+  "author": "Federico Lleó",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flleo/gulp-ejemplo/issues"
+  },
+  "homepage": "https://github.com/flleo/gulp-ejemplo#readme"
+}
