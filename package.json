@@ -1,19 +1,24 @@
 {
-  "name": "gulp-ejemplo",
-  "version": "1.0.0",
-  "description": "ejemplo",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/flleo/gulp-ejemplo.git"
-  },
-  "author": "Federico Lleó",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/flleo/gulp-ejemplo/issues"
-  },
-  "homepage": "https://github.com/flleo/gulp-ejemplo#readme"
+    "name": "gulp-ejemplo",
+    "version": "1.0.0",
+    "description": "Ejemplo del uso de la herramienta 'gulp', para hacer menos pesados nuestros ficheros",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flleo/gulp-ejemplo.git"
+    },
+    "author": "Federico Lleó",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/flleo/gulp-ejemplo/issues"
+    },
+    "homepage": "https://github.com/flleo/gulp-ejemplo#readme",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-concat": "^2.6.1",
+        "gulp-uglify": "^3.0.2"
+    }
 }

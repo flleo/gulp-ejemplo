@@ -1,0 +1,1 @@
+function sumar(n){return console.log("...realizando el incremento en 1"),n+1}function restar(n){return console.log("...realizando una resta"),n-1}
